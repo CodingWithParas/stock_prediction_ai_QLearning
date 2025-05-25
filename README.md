@@ -72,3 +72,49 @@ Edit
 cd backend/
 pip install -r requirements.txt
 python server.py
+
+Optionally expose with ngrok if using on a device:
+ngrok http 8000
+
+2️⃣ Flutter App
+bash
+Copy
+Edit
+cd stock-ai-app/
+flutter pub get
+flutter run
+Update API endpoint in lib/services/api_service.dart.
+
+📷 Screenshots
+Add app screenshots here (upload to /assets and embed):
+
+scss
+Copy
+Edit
+![Home Screen](assets/screens/home.png)
+![Prediction Screen](assets/screens/prediction.png)
+📈 Future Plans
+🧠 Add LSTM + Q-learning hybrid model
+
+🧾 User portfolio & history tracking
+
+🗞️ News sentiment analysis
+
+🔔 Notifications & alerts
+
+🤝 Contributing
+We welcome contributions! To get started:
+
+Fork the repo
+
+Create a feature branch: git checkout -b feature-name
+
+Commit your changes: git commit -am 'Add feature'
+
+Push and create a PR: git push origin feature-name
+
+See CONTRIBUTING.md for more.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
