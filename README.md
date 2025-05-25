@@ -75,46 +75,7 @@ python server.py
 
 Optionally expose with ngrok if using on a device:
 ngrok http 8000
-
-2️⃣ Flutter App
-bash
-Copy
-Edit
-cd stock-ai-app/
-flutter pub get
-flutter run
-Update API endpoint in lib/services/api_service.dart.
-
-📷 Screenshots
-Add app screenshots here (upload to /assets and embed):
-
-scss
-Copy
-Edit
-![Home Screen](assets/screens/home.png)
-![Prediction Screen](assets/screens/prediction.png)
-📈 Future Plans
-🧠 Add LSTM + Q-learning hybrid model
-
-🧾 User portfolio & history tracking
-
-🗞️ News sentiment analysis
-
-🔔 Notifications & alerts
-
-🤝 Contributing
-We welcome contributions! To get started:
-
-Fork the repo
-
-Create a feature branch: git checkout -b feature-name
-
-Commit your changes: git commit -am 'Add feature'
-
-Push and create a PR: git push origin feature-name
-
-See CONTRIBUTING.md for more.
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
+# ScreenShort
+![WhatsApp Image 2025-05-25 at 10 45 45 PM (2)](https://github.com/user-attachments/assets/0c06237f-7832-4778-aad7-2a7264a1d355)
+![WhatsApp Image 2025-05-25 at 10 45 45 PM](https://github.com/user-attachments/assets/e3f19a98-0578-4080-b3bb-3b27456de37a)
+![WhatsApp Image 2025-05-25 at 10 45 45 PM (1)](https://github.com/user-attachments/assets/923fc8e8-8c7f-4d02-a8c5-ea49c80594d0)
