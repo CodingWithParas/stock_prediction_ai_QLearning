@@ -64,18 +64,11 @@ Edit
 
 ---
 
-## 🔧 Setup Instructions
+## Snapshot
+![WhatsApp Image 2025-05-25 at 10 45 45 PM (1)](https://github.com/user-attachments/assets/e540677a-2d00-4a77-aa7b-d87f0a5f0b64)
 
-### 1️⃣ Backend
+![WhatsApp Image 2025-05-25 at 10 45 45 PM (2)](https://github.com/user-attachments/assets/92421ec0-7491-4420-9f00-fa8b7be14c15)
 
-```bash
-cd backend/
-pip install -r requirements.txt
-python server.py
+![WhatsApp Image 2025-05-25 at 10 45 45 PM](https://github.com/user-attachments/assets/e5c9a00d-9950-469b-9757-82922a3d38b8)
 
-Optionally expose with ngrok if using on a device:
-ngrok http 8000
-# ScreenShort
-![WhatsApp Image 2025-05-25 at 10 45 45 PM (2)](https://github.com/user-attachments/assets/0c06237f-7832-4778-aad7-2a7264a1d355)
-![WhatsApp Image 2025-05-25 at 10 45 45 PM](https://github.com/user-attachments/assets/e3f19a98-0578-4080-b3bb-3b27456de37a)
-![WhatsApp Image 2025-05-25 at 10 45 45 PM (1)](https://github.com/user-attachments/assets/923fc8e8-8c7f-4d02-a8c5-ea49c80594d0)
+
